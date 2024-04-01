@@ -1,7 +1,7 @@
 # Data-Structure-and-Algorithms
-![image](https://github.com/Zyron2/Data-Structure-and-Algorithms/assets/143956703/c0635374-1361-49a2-9fe9-bbf5d40580d8)
-![image](https://github.com/Zyron2/Data-Structure-and-Algorithms/assets/143956703/50968de1-0873-4035-b0ff-af523e8956df)
-![image](https://github.com/Zyron2/Data-Structure-and-Algorithms/assets/143956703/c1904043-a05a-4ba1-8440-17177d32ec75)
+![image](https://github.com/adrian213a/Data-Structure-and-Algorithms/assets/156191402/05ecb289-5508-4ecd-9a39-b560cc75de86)
+![image](https://github.com/adrian213a/Data-Structure-and-Algorithms/assets/156191402/b211399f-acfd-460b-945d-168bdeaafbd2)
+![image](https://github.com/adrian213a/Data-Structure-and-Algorithms/assets/156191402/8a4f3f89-a0b2-4280-a472-6afc4b308002)
 
 ![image](https://github.com/Zyron2/Data-Structure-and-Algorithms/assets/143956703/2edda853-2012-4d07-9ef2-82efb328a4d9)
 Screenshot of all expressions in one graph
