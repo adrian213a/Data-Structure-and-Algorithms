@@ -1,4 +1,10 @@
 # Data-Structure-and-Algorithms
+This code is designed to solve a set of mathematical expressions for x values ranging from 1 to 50, plot the results on individual graphs, and save the answers to a txt file. The code also includes user interaction features to allow the user to select specific problems to view or display all of them in one graph.
+1. It generates a list of x values from 1 to 50 to use as inputs for the expressions.
+2. It calculates and stores the results of each expression for all x values in a list.
+3. It plots individual graphs for each expression showing the relationship between x and y values.
+4. It saves the results of all expressions to a txt file named 'results.txt'.
+5. It prompts the user to choose which specific problem to display or to display all problems in one graph.
 ![image](https://github.com/adrian213a/Data-Structure-and-Algorithms/assets/156191402/05ecb289-5508-4ecd-9a39-b560cc75de86)
 ![image](https://github.com/adrian213a/Data-Structure-and-Algorithms/assets/156191402/b211399f-acfd-460b-945d-168bdeaafbd2)
 ![image](https://github.com/adrian213a/Data-Structure-and-Algorithms/assets/156191402/8a4f3f89-a0b2-4280-a472-6afc4b308002)
